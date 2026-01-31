@@ -1,0 +1,7 @@
+{
+  "name": "Schedule2Cal",
+  "description": "Premium AI tool to convert class schedules (Images or PDFs) into Google Calendar events instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
